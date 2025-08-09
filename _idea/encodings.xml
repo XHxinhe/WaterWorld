@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/block/portal/NetherworldPortalBlock.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/block/portal/RandomAPortalBlock.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/block/portal/RandomBPortalBlock.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/block/portal/SpawnpointPortalBlock.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/block/portal/UnderworldPortalBlock.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/item/RebornStone.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/miningsblock/BlockGroups.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/miningsblock/MiningEnchantment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/miningsblock/MiningMixinHooks.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/miningsblock/MiningPlayers.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/miningsblock/logic/BlockProcessor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/miningsblock/logic/MiningLogic.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/miningsblock/network/MiningNetwork.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/armor/ArmorMaterialsMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/block/BoneMealItemMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/block/CocoaBlockMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/block/StemBlockMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/block/SugarCaneBlockMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/client/ChatScreenMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/client/DownloadingTerrainScreenMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/client/LevelLoadingScreenMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/command/ExecuteCommandMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/command/FunctionCommandMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/command/GameModeCommandMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/command/TeleportCommandMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/command/WeatherCommandMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/enchantment/BinomialWithBonusCountMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/enchantment/EnchantmentsMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/enchantment/OreDropsMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/enity/ArrowEntityMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/enity/EnderDragonEntityMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/enity/PersistentProjectileEntityMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/enity/ZombieVillagerEntityMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/item/PlayerInventoryMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/world/OreConfiguredFeaturesMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/aliveandwell/world/OrePlacedFeaturesMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/miningsblock/BlockMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/miningsblock/ItemStackMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chongyu/aliveandwell/mixin/miningsblock/ServerPlayerInteractionManagerMixin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/aliveandwell/recipes/mithril_boots.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/aliveandwell/recipes/mithril_chestplate.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/aliveandwell/recipes/mithril_helmet.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/aliveandwell/recipes/mithril_leggings.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/minecraft/loot_tables/blocks/carrots.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/minecraft/loot_tables/blocks/melon.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/minecraft/loot_tables/blocks/potatoes.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/minecraft/loot_tables/blocks/wheat.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/minecraft/recipes/wheat.json" charset="GBK" />
+  </component>
+</project>

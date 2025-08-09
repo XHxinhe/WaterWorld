@@ -1,0 +1,2 @@
+v1	named	intermediary
+FIELD	com/example/waterworld/mixin/WorldChunkMixin	Lnet/minecraft/world/World;	world	field_12858

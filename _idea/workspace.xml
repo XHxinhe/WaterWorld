@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76439763-0875-4779-976a-320d7b31f114" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AliveAndWell-fabric-1-20-1" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AliveAndWell-fabric-1-20-1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AliveAndWell-fabric-1-20-1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-project-root/1.20.1-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2/minecraft-merged-project-root-1.20.1-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2-sources.jar!/net/minecraft/entity/mob/ZombieEntity.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2S8XxVCKeHIrthfXQKQJKsKkoyR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.AliveAndWell-fabric-1.20.1 [assemble].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AliveAndWell-fabric-1.20.1 [buildDependents].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.AliveAndWell-fabric-1.20.1 [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.加载 Gradle 依赖项.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.构建 AliveAndWell-fabric-1-20-1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.datadog.showProjectSetup&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/3-Games/Modding/ForgeProject/ChongYu/SimplePrivateChest-Forge1.20&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;全局库&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.40114942&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;应用程序.Minecraft Client.executor&quot;: &quot;Debug&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1-20-1\src\main\resources\data\aliveandwell\recipes" />
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1-20-1\src\main\resources\assets\aliveandwell\textures\item" />
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1-20-1\src\main\resources\assets\aliveandwell\textures\block" />
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1-20-1\src\main\resources\data\aliveandwell\loot_tables\blocks" />
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1-20-1\src\main\resources\assets\aliveandwell\models\item" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1-20-1\run\mods" />
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1-20-1\src\main\java\com\chongyu\aliveandwell\mixin\aliveandwell\enity" />
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1-20-1\src\main\resources" />
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1-20-1\src\main\resources\assets\aliveandwell\models\item" />
+      <recent name="D:\3-Games\Modding\FabricProject\ChongYu\AliveAndWell-fabric-1-20-1\run\saves" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.chongyu.aliveandwell.entity" />
+      <recent name="com.chongyu.aliveandwell.events" />
+      <recent name="com.chongyu.aliveandwell.mixin.aliveandwell.command" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chongyu.aliveandwell.mixin.aliveandwell.item" />
+      <recent name="com.chongyu.aliveandwell.mixin.aliveandwell.client" />
+      <recent name="com.chongyu.aliveandwell.mixin.aliveandwell.block" />
+      <recent name="com.chongyu.aliveandwell.mixin.aliveandwell.command" />
+      <recent name="com.chongyu.aliveandwell.mixin.aliveandwell.armor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.AliveAndWell-fabric-1.20.1 [build]">
+    <configuration name="AliveAndWell-fabric-1.20.1 [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="AliveAndWell-fabric-1.20.1 [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="AliveAndWell-fabric-1.20.1 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="AliveAndWell-fabric-1.20.2 [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.AliveAndWell-fabric-1.20.1 [assemble]" />
+      <item itemvalue="Gradle.AliveAndWell-fabric-1.20.1 [buildDependents]" />
+      <item itemvalue="Gradle.AliveAndWell-fabric-1.20.1 [build]" />
+      <item itemvalue="Gradle.AliveAndWell-fabric-1.20.2 [runClient]" />
+      <item itemvalue="应用程序.Minecraft Client" />
+      <item itemvalue="应用程序.Minecraft Server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.AliveAndWell-fabric-1.20.2 [runClient]" />
+        <item itemvalue="Gradle.AliveAndWell-fabric-1.20.1 [build]" />
+        <item itemvalue="Gradle.AliveAndWell-fabric-1.20.1 [buildDependents]" />
+        <item itemvalue="Gradle.AliveAndWell-fabric-1.20.1 [assemble]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="76439763-0875-4779-976a-320d7b31f114" name="更改" comment="" />
+      <created>1688529430181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688529430181</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:net.fabricmc:fabric-loader" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AliveAndWell_fabric_1_20_1$Minecraft_Client.ic" NAME="Minecraft Client 覆盖结果" MODIFIED="1705046168976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
