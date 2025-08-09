@@ -1,9 +1,10 @@
 package com.example.waterworld.mixin;
 
 import com.example.waterworld.WaterWorldMod;
+import com.example.waterworld.processor.ChunkProcessor;
+import com.example.waterworld.utils.WaterWorldUtils;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Blocks;
-import net.minecraft.fluid.FluidState;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.ChunkRegion;
 import net.minecraft.world.chunk.Chunk;
@@ -24,7 +25,7 @@ public abstract class NoiseChunkGeneratorMixin {
     )
     private void floodTheWorld(ChunkRegion region, StructureAccessor structures, NoiseConfig noiseConfig, Chunk chunk, CallbackInfo ci) {
         String dimensionId = region.toServerWorld().getRegistryKey().getValue().toString();
-        int waterLevel = WaterWorldMod.getWaterLevelForDimension(dimensionId);
+        int waterLevel = WaterWorldUtils.getWaterLevelForDimension(dimensionId);
 
         int chunkX = chunk.getPos().getStartX();
         int chunkZ = chunk.getPos().getStartZ();
@@ -48,8 +49,8 @@ public abstract class NoiseChunkGeneratorMixin {
                     mutablePos.set(chunkX + x, y, chunkZ + z);
                     BlockState state = chunk.getBlockState(mutablePos);
 
-                    // 使用新的shouldPreserveBlock方法，传递位置参数
-                    if (WaterWorldMod.shouldPreserveBlock(dimensionId, state)) {
+                    // 使用WaterWorldUtils中的shouldPreserveBlock方法
+                    if (WaterWorldUtils.shouldPreserveBlock(dimensionId, state)) {
                         continue;
                     }
 
@@ -62,8 +63,8 @@ public abstract class NoiseChunkGeneratorMixin {
                     mutablePos.set(chunkX + x, y, chunkZ + z);
                     BlockState state = chunk.getBlockState(mutablePos);
 
-                    // 使用新的shouldPreserveBlock方法，传递位置参数
-                    if (WaterWorldMod.shouldPreserveBlock(dimensionId, state)) {
+                    // 使用WaterWorldUtils中的shouldPreserveBlock方法
+                    if (WaterWorldUtils.shouldPreserveBlock(dimensionId, state)) {
                         continue;
                     }
 
@@ -73,6 +74,6 @@ public abstract class NoiseChunkGeneratorMixin {
         }
 
         // 记录此区块已被处理
-        WaterWorldMod.PROCESSED_CHUNKS.add(chunk.getPos());
+        ChunkProcessor.PROCESSED_CHUNKS.add(chunk.getPos());
     }
 }

@@ -46,6 +46,30 @@ jar {
 	}
 }
 
+// 添加数据生成任务配置
+loom {
+	runs {
+		datagen {
+			client()
+			name "Data Generation"
+			vmArg "-Dfabric-api.datagen"
+			vmArg "-Dfabric-api.datagen.output-dir=${file("src/main/generated")}"
+			vmArg "-Dfabric-api.datagen.modid=waterworld"  // 直接使用硬编码的模组ID
+		}
+	}
+}
+
+// 将生成的资源添加到源代码集
+sourceSets {
+	main {
+		resources {
+			srcDirs += [
+					"src/main/generated"
+			]
+		}
+	}
+}
+
 // configure the maven publication
 publishing {
 	publications {
