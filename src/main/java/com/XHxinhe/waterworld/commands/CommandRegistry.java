@@ -1,7 +1,7 @@
-package com.example.waterworld.commands;
+package com.XHxinhe.waterworld.commands;
 
-import com.example.waterworld.processor.ChunkProcessor;
-import com.example.waterworld.utils.WaterWorldUtils;
+import com.XHxinhe.waterworld.processor.ChunkProcessor;
+import com.XHxinhe.waterworld.utils.WaterWorldUtils;
 import net.fabricmc.fabric.api.command.v2.CommandRegistrationCallback;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Blocks;

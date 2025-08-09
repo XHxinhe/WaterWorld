@@ -10,7 +10,10 @@
     "BiomeTempMixin",
     "WorldChunkMixin"
   ],
-  "client": [],
+  "client": [
+    "TitleScreenMixin",
+    "MinecraftClientMixin"
+  ],
   "injectors": {
     "defaultRequire": 1
   }

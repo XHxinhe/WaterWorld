@@ -1,6 +1,6 @@
-package com.example.waterworld.processor;
+package com.XHxinhe.waterworld.processor;
 
-import com.example.waterworld.utils.WaterWorldUtils;
+import com.XHxinhe.waterworld.utils.WaterWorldUtils;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Blocks;
 import net.minecraft.server.MinecraftServer;

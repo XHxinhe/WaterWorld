@@ -1,6 +1,5 @@
-package com.example.waterworld.mixin;
+package com.XHxinhe.waterworld.mixin;
 
-import com.example.waterworld.WaterWorldMod;
 import net.minecraft.server.world.ServerWorld;
 import net.minecraft.world.World;
 import net.minecraft.world.chunk.WorldChunk;

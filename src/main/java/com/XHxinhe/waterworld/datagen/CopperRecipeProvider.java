@@ -1,4 +1,4 @@
-package com.example.waterworld.datagen;
+package com.XHxinhe.waterworld.datagen;
 
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricRecipeProvider;

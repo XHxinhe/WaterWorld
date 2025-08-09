@@ -1,4 +1,4 @@
-package com.example.waterworld.utils;
+package com.XHxinhe.waterworld.utils;
 
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Blocks;

@@ -1,4 +1,4 @@
-package com.example.waterworld.mixin;
+package com.XHxinhe.waterworld.mixin;
 
 import net.minecraft.world.biome.Biome;
 import org.spongepowered.asm.mixin.Mixin;

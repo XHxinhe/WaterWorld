@@ -1,7 +1,7 @@
-package com.example.waterworld;
+package com.XHxinhe.waterworld;
 
-import com.example.waterworld.commands.CommandRegistry;
-import com.example.waterworld.processor.ChunkProcessor;
+import com.XHxinhe.waterworld.commands.CommandRegistry;
+import com.XHxinhe.waterworld.processor.ChunkProcessor;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.event.lifecycle.v1.ServerChunkEvents;
 import net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents;

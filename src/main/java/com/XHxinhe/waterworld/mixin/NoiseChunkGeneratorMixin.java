@@ -1,8 +1,7 @@
-package com.example.waterworld.mixin;
+package com.XHxinhe.waterworld.mixin;
 
-import com.example.waterworld.WaterWorldMod;
-import com.example.waterworld.processor.ChunkProcessor;
-import com.example.waterworld.utils.WaterWorldUtils;
+import com.XHxinhe.waterworld.processor.ChunkProcessor;
+import com.XHxinhe.waterworld.utils.WaterWorldUtils;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Blocks;
 import net.minecraft.util.math.BlockPos;
