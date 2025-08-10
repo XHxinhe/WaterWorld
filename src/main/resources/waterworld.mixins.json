@@ -9,7 +9,6 @@
     "WaterBlockMixin",
     "BiomeTempMixin",
     "WorldChunkMixin",
-    "DefaultBiomeFeaturesMixin",
     "BasaltColumnsFeatureMixin"
   ],
   "client": [

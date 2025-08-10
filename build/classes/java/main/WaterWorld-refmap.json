@@ -9,10 +9,6 @@
     "com/XHxinhe/waterworld/mixin/ConfiguredCarverMixin": {
       "carve": "Lnet/minecraft/class_2922;method_12668(Lnet/minecraft/class_5873;Lnet/minecraft/class_2791;Ljava/util/function/Function;Lnet/minecraft/class_5819;Lnet/minecraft/class_6350;Lnet/minecraft/class_1923;Lnet/minecraft/class_6643;)Z"
     },
-    "com/XHxinhe/waterworld/mixin/DefaultBiomeFeaturesMixin": {
-      "addIcebergs": "Lnet/minecraft/class_3864;method_16997(Lnet/minecraft/class_5485$class_5495;)V",
-      "addSwampFeatures": "Lnet/minecraft/class_3864;method_16972(Lnet/minecraft/class_5485$class_5495;)V"
-    },
     "com/XHxinhe/waterworld/mixin/MinecraftClientMixin": {
       "getWindowTitle": "Lnet/minecraft/class_310;method_24287()Ljava/lang/String;"
     },
@@ -39,10 +35,6 @@
       },
       "com/XHxinhe/waterworld/mixin/ConfiguredCarverMixin": {
         "carve": "Lnet/minecraft/class_2922;method_12668(Lnet/minecraft/class_5873;Lnet/minecraft/class_2791;Ljava/util/function/Function;Lnet/minecraft/class_5819;Lnet/minecraft/class_6350;Lnet/minecraft/class_1923;Lnet/minecraft/class_6643;)Z"
-      },
-      "com/XHxinhe/waterworld/mixin/DefaultBiomeFeaturesMixin": {
-        "addIcebergs": "Lnet/minecraft/class_3864;method_16997(Lnet/minecraft/class_5485$class_5495;)V",
-        "addSwampFeatures": "Lnet/minecraft/class_3864;method_16972(Lnet/minecraft/class_5485$class_5495;)V"
       },
       "com/XHxinhe/waterworld/mixin/MinecraftClientMixin": {
         "getWindowTitle": "Lnet/minecraft/class_310;method_24287()Ljava/lang/String;"
