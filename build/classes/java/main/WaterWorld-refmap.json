@@ -1,48 +1,62 @@
 {
   "mappings": {
-    "com/example/waterworld/mixin/BiomeTempMixin": {
+    "com/XHxinhe/waterworld/mixin/BasaltColumnsFeatureMixin": {
+      "generate": "Lnet/minecraft/class_5153;method_13151(Lnet/minecraft/class_5821;)Z"
+    },
+    "com/XHxinhe/waterworld/mixin/BiomeTempMixin": {
       "getTemperature": "Lnet/minecraft/class_1959;method_21740(Lnet/minecraft/class_2338;)F"
     },
-    "com/example/waterworld/mixin/ConfiguredCarverMixin": {
+    "com/XHxinhe/waterworld/mixin/ConfiguredCarverMixin": {
       "carve": "Lnet/minecraft/class_2922;method_12668(Lnet/minecraft/class_5873;Lnet/minecraft/class_2791;Ljava/util/function/Function;Lnet/minecraft/class_5819;Lnet/minecraft/class_6350;Lnet/minecraft/class_1923;Lnet/minecraft/class_6643;)Z"
     },
-    "com/example/waterworld/mixin/MinecraftClientMixin": {
+    "com/XHxinhe/waterworld/mixin/DefaultBiomeFeaturesMixin": {
+      "addIcebergs": "Lnet/minecraft/class_3864;method_16997(Lnet/minecraft/class_5485$class_5495;)V",
+      "addSwampFeatures": "Lnet/minecraft/class_3864;method_16972(Lnet/minecraft/class_5485$class_5495;)V"
+    },
+    "com/XHxinhe/waterworld/mixin/MinecraftClientMixin": {
       "getWindowTitle": "Lnet/minecraft/class_310;method_24287()Ljava/lang/String;"
     },
-    "com/example/waterworld/mixin/NoiseChunkGeneratorMixin": {
+    "com/XHxinhe/waterworld/mixin/NoiseChunkGeneratorMixin": {
       "buildSurface(Lnet/minecraft/world/ChunkRegion;Lnet/minecraft/world/gen/StructureAccessor;Lnet/minecraft/world/gen/noise/NoiseConfig;Lnet/minecraft/world/chunk/Chunk;)V": "Lnet/minecraft/class_3754;method_12110(Lnet/minecraft/class_3233;Lnet/minecraft/class_5138;Lnet/minecraft/class_7138;Lnet/minecraft/class_2791;)V"
     },
-    "com/example/waterworld/mixin/TitleScreenMixin": {
+    "com/XHxinhe/waterworld/mixin/TitleScreenMixin": {
       "render": "Lnet/minecraft/class_442;method_25394(Lnet/minecraft/class_332;IIF)V"
     },
-    "com/example/waterworld/mixin/WaterBlockMixin": {
+    "com/XHxinhe/waterworld/mixin/WaterBlockMixin": {
       "randomTick": "Lnet/minecraft/class_2404;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
     },
-    "com/example/waterworld/mixin/WorldChunkMixin": {
+    "com/XHxinhe/waterworld/mixin/WorldChunkMixin": {
       "setLoadedToWorld": "Lnet/minecraft/class_2818;method_12226(Z)V"
     }
   },
   "data": {
     "named:intermediary": {
-      "com/example/waterworld/mixin/BiomeTempMixin": {
+      "com/XHxinhe/waterworld/mixin/BasaltColumnsFeatureMixin": {
+        "generate": "Lnet/minecraft/class_5153;method_13151(Lnet/minecraft/class_5821;)Z"
+      },
+      "com/XHxinhe/waterworld/mixin/BiomeTempMixin": {
         "getTemperature": "Lnet/minecraft/class_1959;method_21740(Lnet/minecraft/class_2338;)F"
       },
-      "com/example/waterworld/mixin/ConfiguredCarverMixin": {
+      "com/XHxinhe/waterworld/mixin/ConfiguredCarverMixin": {
         "carve": "Lnet/minecraft/class_2922;method_12668(Lnet/minecraft/class_5873;Lnet/minecraft/class_2791;Ljava/util/function/Function;Lnet/minecraft/class_5819;Lnet/minecraft/class_6350;Lnet/minecraft/class_1923;Lnet/minecraft/class_6643;)Z"
       },
-      "com/example/waterworld/mixin/MinecraftClientMixin": {
+      "com/XHxinhe/waterworld/mixin/DefaultBiomeFeaturesMixin": {
+        "addIcebergs": "Lnet/minecraft/class_3864;method_16997(Lnet/minecraft/class_5485$class_5495;)V",
+        "addSwampFeatures": "Lnet/minecraft/class_3864;method_16972(Lnet/minecraft/class_5485$class_5495;)V"
+      },
+      "com/XHxinhe/waterworld/mixin/MinecraftClientMixin": {
         "getWindowTitle": "Lnet/minecraft/class_310;method_24287()Ljava/lang/String;"
       },
-      "com/example/waterworld/mixin/NoiseChunkGeneratorMixin": {
+      "com/XHxinhe/waterworld/mixin/NoiseChunkGeneratorMixin": {
         "buildSurface(Lnet/minecraft/world/ChunkRegion;Lnet/minecraft/world/gen/StructureAccessor;Lnet/minecraft/world/gen/noise/NoiseConfig;Lnet/minecraft/world/chunk/Chunk;)V": "Lnet/minecraft/class_3754;method_12110(Lnet/minecraft/class_3233;Lnet/minecraft/class_5138;Lnet/minecraft/class_7138;Lnet/minecraft/class_2791;)V"
       },
-      "com/example/waterworld/mixin/TitleScreenMixin": {
+      "com/XHxinhe/waterworld/mixin/TitleScreenMixin": {
         "render": "Lnet/minecraft/class_442;method_25394(Lnet/minecraft/class_332;IIF)V"
       },
-      "com/example/waterworld/mixin/WaterBlockMixin": {
+      "com/XHxinhe/waterworld/mixin/WaterBlockMixin": {
         "randomTick": "Lnet/minecraft/class_2404;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
       },
-      "com/example/waterworld/mixin/WorldChunkMixin": {
+      "com/XHxinhe/waterworld/mixin/WorldChunkMixin": {
         "setLoadedToWorld": "Lnet/minecraft/class_2818;method_12226(Z)V"
       }
     }

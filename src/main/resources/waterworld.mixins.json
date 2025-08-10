@@ -8,7 +8,9 @@
     "ConfiguredCarverMixin",
     "WaterBlockMixin",
     "BiomeTempMixin",
-    "WorldChunkMixin"
+    "WorldChunkMixin",
+    "DefaultBiomeFeaturesMixin",
+    "BasaltColumnsFeatureMixin"
   ],
   "client": [
     "TitleScreenMixin",

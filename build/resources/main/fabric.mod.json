@@ -3,20 +3,20 @@
 	"id": "waterworld",
 	"version": "1.0.0",
 	"name": "WaterWorld",
-	"description": "Floods the world with water",
+	"description": "探索无尽海洋",
 	"authors": [
-		"YourName"
+		"XHxinhe"
 	],
 	"contact": {},
 	"license": "MIT",
-	"icon": "assets/waterworld/icon.png",
+	"icon": "assets/waterworld/waterworld.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.waterworld.WaterWorldMod"
+			"com.XHxinhe.waterworld.WaterWorldMod"
 		],
 		"fabric-datagen": [
-			"com.example.waterworld.datagen.WaterWorldDataGeneration"
+			"com.XHxinhe.waterworld.datagen.WaterWorldDataGeneration"
 		]
 	},
 	"mixins": [

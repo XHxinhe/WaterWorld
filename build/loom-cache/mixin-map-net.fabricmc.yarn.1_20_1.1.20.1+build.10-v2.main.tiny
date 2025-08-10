@@ -1,4 +1,4 @@
 v1	named	intermediary
-FIELD	com/example/waterworld/mixin/TitleScreenMixin	Z	doBackgroundFade	field_18222
-FIELD	com/example/waterworld/mixin/TitleScreenMixin	J	backgroundFadeStart	field_17772
-FIELD	com/example/waterworld/mixin/WorldChunkMixin	Lnet/minecraft/world/World;	world	field_12858
+FIELD	com/XHxinhe/waterworld/mixin/TitleScreenMixin	Z	doBackgroundFade	field_18222
+FIELD	com/XHxinhe/waterworld/mixin/TitleScreenMixin	J	backgroundFadeStart	field_17772
+FIELD	com/XHxinhe/waterworld/mixin/WorldChunkMixin	Lnet/minecraft/world/World;	world	field_12858

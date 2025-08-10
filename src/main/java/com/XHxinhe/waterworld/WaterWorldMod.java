@@ -23,11 +23,11 @@ public class WaterWorldMod implements ModInitializer {
     public void onInitialize() {
         LOGGER.info("Initializing WaterWorld Mod");
 
-        // 注册事件监听器
+        // 注册事件监听器 (你原有的代码)
         ServerLifecycleEvents.SERVER_STARTED.register(this::onServerStarted);
         ServerChunkEvents.CHUNK_LOAD.register(ChunkProcessor::onChunkLoad);
 
-        // 注册命令
+        // 注册命令 (你原有的代码)
         CommandRegistry.registerCommands();
     }
 
